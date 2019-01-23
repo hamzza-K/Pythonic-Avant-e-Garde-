@@ -1,17 +1,16 @@
 import os
 import random
 try:
-    os.chdir('C:/Users/HP/Desktop/experiment')
+    os.chdir('path to your directory')
 except Exception as e:
-    os.mkdir('C:/Users/HP/Desktop/experiment')
-print(os.getcwd())
+    os.mkdir('if the directory is not found, create one')
+print(os.getcwd()) #make sure you get the right path
 
-names = ['this sucks', 'lmao', 'omaewashinderu','meh','Ahegao']
-my_list = ['wahahhah', 'what are you looking at', 'you moron', 'i am watching you']
+names = ['this sucks', 'lmao', 'omaewashinderu','meh']
+my_list = ['wahahhah', 'what are you looking at', 'i am watching you']
 
 class Mi_hacker(object):
-
-
+    
     def changing_files(self):
         for f in os.listdir():
             f_name, f_ext = os.path.splitext(f)
