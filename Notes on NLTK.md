@@ -1,8 +1,8 @@
 #A go-to notes on NLTK
 
 
-# Chunking, Chinking, Stop-Words and Named-Entity Recognition with NLTK
-#======================================================================
+### Chunking, Chinking, Stop-Words and Named-Entity Recognition with NLTK
+###======================================================================
 
 
 
