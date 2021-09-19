@@ -1,4 +1,4 @@
-#Made this project in my first semester in my University when i had a little or subtle knowledge about programming and languages.
+#Made this project in my first semester in my University when I had a little or subtle knowledge about programming and languages.
 
 
 try:
